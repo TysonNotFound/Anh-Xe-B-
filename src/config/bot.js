@@ -24,8 +24,8 @@ export const botConfig = {
     activities: [
       {
         name: "BeepBopp", // required by Discord API, not shown in the client
-        state: "sNhìn Gì?",     // this is what people actually see
-        type: 4,               // Custom
+        state: "Nhìn Gì?",     // this is what people actually see
+        type: 1,               // Custom
       },
     ],
   },
